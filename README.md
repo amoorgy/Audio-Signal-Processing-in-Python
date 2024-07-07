@@ -124,14 +124,6 @@ play_wav(high_passed_signal, fs)
 - **low_passed_signal.wav:** WAV file containing the low-pass filtered signal.
 - **high_passed_signal.wav:** WAV file containing the high-pass filtered signal.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 
 Special thanks to the open-source community for providing the libraries and resources that made this project possible.
